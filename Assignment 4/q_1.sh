@@ -1,0 +1,5 @@
+#!bim/bash
+
+whoami
+
+pwd
